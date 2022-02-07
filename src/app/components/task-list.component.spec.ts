@@ -1,7 +1,7 @@
 import { render } from '@testing-library/angular';
 import { TaskListComponent } from './task-list.component';
 import { TaskComponent } from './task.component';
-import { WithPinnedTasks } from './task-list.stories';
+import { WithPinnedTasks } from './pure-task-list.stories';
 
 describe('TaskList component', () => {
   it('renders pinned tasks at the start of the list', async () => {
