@@ -916,7 +916,7 @@
             "assetsDirs": [],
             "styleUrlsData": "",
             "stylesData": "",
-            "templateData": "<div class=\"page lists-show\" *ngIf=\"error\">\r\n  <div class=\"wrapper-message\">\r\n    <span class=\"icon-face-sad\"></span>\r\n    <div class=\"title-message\">Oh no!</div>\r\n    <div class=\"subtitle-message\">Something went wrong</div>\r\n  </div>\r\n</div>\r\n\r\n<div class=\"page lists-show\" *ngIf=\"!error\">\r\n  <nav>\r\n    <h1 class=\"title-page\">\r\n      <span class=\"title-wrapper\">Taskbox</span>\r\n    </h1>\r\n  </nav>\r\n  <app-task-list></app-task-list>\r\n</div>\r\n"
+            "templateData": "<div class=\"page lists-show\" *ngIf=\"error\">\r\n  <div class=\"wrapper-message\">\r\n    <span class=\"icon-face-sad\"></span>\r\n    <div class=\"title-message\">Oh no!</div>\r\n    <div class=\"subtitle-message\">Something went wrong</div>\r\n  </div>\r\n</div>\r\n\r\n<div class=\"page lists-show\" *ngIf=\"!error\">\r\n  <nav>\r\n    <h1 class=\"title-page\">\r\n      <span class=\"title-wrapper\">Taskbox</span>\r\n    </h1>\r\n  </nav>\r\n  hi\r\n  <app-task-list></app-task-list>\r\n</div>\r\n"
         },
         {
             "name": "PureTaskListComponent",
